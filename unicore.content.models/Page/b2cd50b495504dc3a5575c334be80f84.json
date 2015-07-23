@@ -6,12 +6,12 @@
   "primary_category": "c63540b99f394f83b8029076d016710b", 
   "created_at": "2014-11-30T00:19:16+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2015-07-23T13:12:57.284289+00:00", 
+  "modified_at": "2015-07-23T13:17:47.937825+00:00", 
   "_version": {
     "package_version": "1.4.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -25,7 +25,7 @@
   "image": null, 
   "published": null, 
   "position": 18, 
-  "image_host": "http://qa.thumbor.unicore.io", 
+  "image_host": "http://thumbor.unicore.io", 
   "slug": "have-you-started-menstruating", 
   "uuid": "b2cd50b495504dc3a5575c334be80f84"
 }
