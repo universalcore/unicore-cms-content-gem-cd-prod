@@ -1,17 +1,17 @@
 {
-  "subtitle": "Je, unataka kuwa msichana mwenye nguvu za ndani, jaribu mbinu hizi ili uwezeshwe.", 
-  "description": "", 
+  "subtitle": "", 
+  "description": "Je, unataka kuwa msichana mwenye nguvu za ndani, jaribu mbinu hizi ili uwezeshwe.", 
   "language": "swa_TZ", 
   "title": "Nenda mbele dada! Jinsi ya kuwa mwenye nguvu na uwezo!", 
   "primary_category": "4a1dda90e331498ebbc48175ad13f386", 
-  "created_at": "2016-07-25T15:40:22.359480+00:00", 
+  "created_at": "2016-07-25T15:40:22+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-07-25T15:40:22.359696+00:00", 
+  "modified_at": "2016-08-16T12:49:02.947857+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 1, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "nenda-mbele-dada-jinsi-ya-kuwa-mwenye-nguvu-na-uwezo", 
   "uuid": "45864f5591614fca8f6533a5a32bb964"
